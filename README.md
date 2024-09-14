@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @betty-gumball i am a back-end developer.
-- 👀 I’m interested in developing my coding skills.
-- 💞️ I’m looking to collaborate on small web development projects. 
-- 📫 you can reach me @betty_tadesse_ via instagram :)
+- 👋 Hi, I’m Bethlehem Tadesse, a back-end developer.
+- 📫 you can reach me @bethlehemtadesse7@gmail.com :)
 
 <!---
 betty-gumball/betty-gumball is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
